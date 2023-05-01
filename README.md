@@ -1,2 +1,2 @@
-# Regression
-practice projects
+Regression
+Exercises and practice projects
